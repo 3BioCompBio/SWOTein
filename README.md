@@ -10,6 +10,6 @@ The sizes of the sequence windows appearing in the definition ofthe potentials, 
 
 ### Difference with the preliminary SWOTein version of de Laet et al. (2016):<br />
 - Sequence windows of all potentials have been changed (precviously = 2) <br />
-- Solvent accessibity potential of Eq. (5) has been modified (previously DWsaa + DWssa)/2) <br />
-- Torsion potential of Eq. (6) has been modified (previously DWstt + DWsst)/2) <br />
+- Solvent accessibity potential of Eq. (5) has been modified (previously (ΔWsaa + ΔWssa)/2) <br />
+- Torsion potential of Eq. (6) has been modified (previously (ΔWstt + ΔWsst)/2) <br />
 - The database for deriving the potetials has been updated <br />
