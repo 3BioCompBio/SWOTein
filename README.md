@@ -9,7 +9,7 @@ Here there are some files related to our paper "SWOTein: A structure-based appro
 The sizes of the sequence windows appearing in the definition ofthe potentials, Eqs (5)-(7), have been chosen to obtain the lowest average folding free energy values on the dataset D.
 
 ### Difference with the preliminary SWOTein version of de Laet et al. (2016):<br />
-- Sequence windows of all potentials have been changed (precviously = 2) <br />
+- Sequence windows of all potentials have been changed (previously = 2) <br />
 - Solvent accessibity potential of Eq. (5) has been modified (previously (ΔWsaa + ΔWssa)/2) <br />
 - Torsion potential of Eq. (6) has been modified (previously (ΔWstt + ΔWsst)/2) <br />
 - The database for deriving the potetials has been updated <br />
